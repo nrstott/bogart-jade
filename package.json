@@ -1,0 +1,21 @@
+{
+    "name": "bogart-jade",
+    "description": "Jade template engine plugin for Bogart",
+    "version": "0.1.0",
+    "keywords": ["bogart", "jade"],
+    "author": "Nathan Stott",
+    "email": "nathan.stott@whiteboard-it.com",
+    "main": "./lib/bogart-jade",
+    "directories": { "lib": "./lib" },  
+    "dependencies": {
+      "promised-io": "v0.2.3",
+      "jade": ">=0.15.4",
+      "bogart": ">= 0.3.9"
+    },
+    "devDependencies": {
+      "expresso": ">= 0.8.1"
+    },
+    "scripts": {
+      "test": "expresso"
+    }
+}
