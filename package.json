@@ -1,7 +1,7 @@
 {
     "name": "bogart-jade",
     "description": "Jade template engine plugin for Bogart",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "keywords": ["bogart", "jade"],
     "author": "Nathan Stott",
     "email": "nathan.stott@whiteboard-it.com",
